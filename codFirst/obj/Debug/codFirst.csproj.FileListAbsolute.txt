@@ -1,0 +1,13 @@
+C:\Users\de_Riter\source\repos\codFirst\codFirst\bin\Debug\codFirst.exe.config
+C:\Users\de_Riter\source\repos\codFirst\codFirst\bin\Debug\codFirst.exe
+C:\Users\de_Riter\source\repos\codFirst\codFirst\bin\Debug\codFirst.pdb
+C:\Users\de_Riter\source\repos\codFirst\codFirst\bin\Debug\EntityFramework.dll
+C:\Users\de_Riter\source\repos\codFirst\codFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\de_Riter\source\repos\codFirst\codFirst\bin\Debug\EntityFramework.xml
+C:\Users\de_Riter\source\repos\codFirst\codFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\de_Riter\source\repos\codFirst\codFirst\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\de_Riter\source\repos\codFirst\codFirst\obj\Debug\codFirst.csproj.AssemblyReference.cache
+C:\Users\de_Riter\source\repos\codFirst\codFirst\obj\Debug\codFirst.csproj.CoreCompileInputs.cache
+C:\Users\de_Riter\source\repos\codFirst\codFirst\obj\Debug\codFirst.csproj.CopyComplete
+C:\Users\de_Riter\source\repos\codFirst\codFirst\obj\Debug\codFirst.exe
+C:\Users\de_Riter\source\repos\codFirst\codFirst\obj\Debug\codFirst.pdb
